@@ -5,8 +5,8 @@ const { pathfinder, goals: { GoalXZ } } = require('mineflayer-pathfinder')
 const autoEat = require('mineflayer-auto-eat').plugin
 const pvp = require('mineflayer-pvp').plugin
 
-const SERVER_HOST = process.env.SERVER_HOST || 'play2.eternalzero.cloud'
-const SERVER_PORT = Number(process.env.SERVER_PORT || 27199)
+const SERVER_HOST = process.env.SERVER_HOST || 'TOPOMEGAAAAAAA.aternos.me'
+const SERVER_PORT = Number(process.env.SERVER_PORT || 52832)
 const AUTH_MODE   = process.env.AUTH_MODE || 'offline'
 const MAX_BOTS    = 17
 const JOIN_DELAY_MS = 2500
