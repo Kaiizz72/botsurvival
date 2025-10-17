@@ -1,1 +1,2 @@
 # botsurvival
+tự động chơi
